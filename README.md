@@ -20,7 +20,17 @@
 <h4>Adiciona automaticamente tag de fechamento</h4>
 <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag">Link</a>👈
 
-<h2>5 - Auto Rename Tag</h2>
+<h2>5- Auto Rename Tag</h2>
 <img src="https://github.com/formulahendry/vscode-auto-rename-tag/raw/master/images/usage.gif" alt="">
 <h4>Renomeia sua tags automaticamente</h4>
 <a target="_black" href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Link</a>👈
+
+<h2>6 - VSCode Great Icons</h2>
+<img src="https://raw.githubusercontent.com/EmmanuelBeziat/vscode-great-icons/icons-test/icons.jpg" alt="">
+<h4>Pacote de ícones para os seus arquivos</h4>
+<a href="https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons">Link</a>👈
+
+<h2>7 - Indenticator</h2>
+<img src="https://github.com/SirTori/indenticator/raw/master/img/demo.gif" alt="">
+<h4>Destaca visualmente a profundidade da indentação</h4>
+<a href="https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator">Link</a>👈
