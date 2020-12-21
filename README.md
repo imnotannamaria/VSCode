@@ -20,7 +20,7 @@
 <h4>Adiciona automaticamente tag de fechamento</h4>
 <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag">Link</a>👈
 
-<h2>5- Auto Rename Tag</h2>
+<h2>5 - Auto Rename Tag</h2>
 <img src="https://github.com/formulahendry/vscode-auto-rename-tag/raw/master/images/usage.gif" alt="">
 <h4>Renomeia sua tags automaticamente</h4>
 <a target="_black" href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Link</a>👈
@@ -34,3 +34,8 @@
 <img src="https://github.com/SirTori/indenticator/raw/master/img/demo.gif" alt="">
 <h4>Destaca visualmente a profundidade da indentação</h4>
 <a href="https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator">Link</a>👈
+
+<h2>8 - SVG Viewer</h2>
+<img src="https://github.com/cssho/vscode-svgviewer/raw/master/img/from_context.gif" alt="">
+<h4>Visualizador de SVG</h4>
+<a href="https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer">Link</a>👈
