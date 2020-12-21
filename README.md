@@ -20,7 +20,7 @@
 <h4>Adiciona automaticamente tag de fechamento</h4>
 <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag">Link</a>👈
 
-<h2>5- Auto Rename Tag</h2>
+<h2>5 - Auto Rename Tag</h2>
 <img src="https://github.com/formulahendry/vscode-auto-rename-tag/raw/master/images/usage.gif" alt="">
 <h4>Renomeia sua tags automaticamente</h4>
 <a target="_black" href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag">Link</a>👈
