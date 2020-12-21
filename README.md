@@ -2,4 +2,4 @@
 
 <h3>1</h3>
 <img src="https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png" alt="">
-<p>Esta extensão coloriza a indentação do seu texto, alternando quatro cores diferentes em cada etapa.</p>
+<h4>Esta extensão coloriza a indentação do seu texto, alternando quatro cores diferentes em cada etapa.</h4>
