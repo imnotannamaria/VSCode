@@ -6,7 +6,7 @@
 <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow">Link </a>👈
 
 <h2>2 - Bracket Pair Colorizer</h2>
-<h4>Esta extensão permite que os colchetes sejam identificados com cores.</h4>
+<h4>Essa extensão permite que os colchetes sejam identificados com cores.</h4>
 <img src="https://github.com/CoenraadS/BracketPair/raw/master/images/example.png" alt="">
 <a target="_blank"  href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer">Link</a>👈
 
