@@ -14,3 +14,8 @@
 <img src="https://www.rtancman.com.br/img/posts/2018/11/vscode/vscode-TODOHighlight.png" alt="">
 <h4>Destaca TODO, FIXME e outras anotações em seu código.</h4>
 <a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight">Link</a>👈
+
+<h2>4 - Auto Close Tag</h2>
+<img src="https://www.rtancman.com.br/img/posts/2018/11/vscode/auto_close_tags_usage.gif" alt="">
+<h4>Adiciona automaticamente tag de fechamento</h4>
+<a target="_blank" href="https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag">Link</a>👈
